@@ -1,0 +1,148 @@
+[
+    {
+        "id": "5f01ecbf584ac172c64e0231",
+        "title": "Fullstack Dev",
+        "company": "twitter",
+        "link": "https://linkedin.com",
+        "platform": "linkedin",
+        "tags": ["C#", "Git", "Javascript"],
+        "description": "4+ years experience as a Front-end Developer, Experience with HTML5, CSS3, Javascript, Vue.js Experience with modern Front End Dev Ops (NPM, WebPack, Gulp, Browserify, Babel, etc), Experience with Sass or other compiled CSS languages, Experience in responsive web design, Develop and test across multiple browsers, platforms, and devices, including smartphones and tablets, Proficient understanding of cross-browser compatibility issues and ways to work around them, Stay up-to-date on emerging technologies, Good knowledge of version control systems e.g. Git, Experience in optimizing for page performance, Ability to write clean and semantical front-end code, Self-motivated; independent, organized and proactive; highly responsive, flexible, and adaptable when working across multiple teams, Should be open for developing and learning new technologies.",
+        "createdAt": 0,
+        "updatedAt": 1593961901,
+        "status": "Created"
+    },
+    {
+        "id": "5f01ee06b2cf525f6fd07aa0",
+        "title": "Frontend Dev",
+        "company": "google",
+        "link": "https://www.stacoverflow.com",
+        "platform": "stackoverflow",
+        "tags": ["Javascript", "React", "CSS"],
+        "description": "Expert knowledge of React, React Native and Redux Solid experience with Node.js (Express, Koa) Solid experience with TypeScript Solid experience with GraphQL Experience with NoSQL databases (MongoDB, DynamoDB) Experience with AWS Cognito/Auth0 Write high-performance, reusable code for UI components Experience with testing frameworks Experience with continuous integration and deployment (CI/CD) environment Strong communication skills",
+        "createdAt": 1593961990,
+        "updatedAt": 1593965603,
+        "status": "Created"
+    },
+    {
+        "id": "5f061bf698c6e5cd5b975517",
+        "title": "Backend Dev",
+        "company": "postman",
+        "link": "https://www.glassdoor.com",
+        "platform": "",
+        "tags": ["C#", "Git"],
+        "description": "We work with niche companies in the US, Canada, the UK to restructure and automate their operation so that their businesses can grow 5-10x. We do that by effectively analyzing their business, streamlining their processes, and designing an effective automation solution that we then implement on our robust IT stack. We make extensive use of technologies that help us accomplish results with less work — making everyone inside of our global organization more effective. We heavily leverage: Amazon AWS's serverless technologies and microservices for our front-end, back-end, and mobile apps (Lambda, Amplify, Cognito, S3, etc.). Zoho's CRM and ERP Tools (Desk, Books, etc.). Vonage/Nexmo-based telephony and communications solutions (Vonage Business Phone, Nexmo Voice/SMS, OpenTalk, etc.). We are always looking for new technologies and welcome team members adding things to our technology stack so we can deliver more results more effectively. ",
+        "createdAt": 1594235894,
+        "updatedAt": 1594235894,
+        "status": "Created"
+    },
+    {
+        "id": "5f061bf698c6e5cd5b975518",
+        "title": "Backend Dev",
+        "company": "postman",
+        "link": "https://www.glassdoor.com",
+        "platform": "",
+        "tags": ["C#", "Git"],
+        "description": "We work with niche companies in the US, Canada, the UK to restructure and automate their operation so that their businesses can grow 5-10x. We do that by effectively analyzing their business, streamlining their processes, and designing an effective automation solution that we then implement on our robust IT stack. We make extensive use of technologies that help us accomplish results with less work — making everyone inside of our global organization more effective. We heavily leverage: Amazon AWS's serverless technologies and microservices for our front-end, back-end, and mobile apps (Lambda, Amplify, Cognito, S3, etc.). Zoho's CRM and ERP Tools (Desk, Books, etc.). Vonage/Nexmo-based telephony and communications solutions (Vonage Business Phone, Nexmo Voice/SMS, OpenTalk, etc.). We are always looking for new technologies and welcome team members adding things to our technology stack so we can deliver more results more effectively. ",
+        "createdAt": 1594235894,
+        "updatedAt": 1594235894,
+        "status": "Waiting"
+    },
+    {
+        "id": "5f061bf698c6e5cd5b975519",
+        "title": "Backend Dev",
+        "company": "postman",
+        "link": "https://www.glassdoor.com",
+        "platform": "",
+        "tags": ["C#", "Git"],
+        "description": "We work with niche companies in the US, Canada, the UK to restructure and automate their operation so that their businesses can grow 5-10x. We do that by effectively analyzing their business, streamlining their processes, and designing an effective automation solution that we then implement on our robust IT stack. We make extensive use of technologies that help us accomplish results with less work — making everyone inside of our global organization more effective. We heavily leverage: Amazon AWS's serverless technologies and microservices for our front-end, back-end, and mobile apps (Lambda, Amplify, Cognito, S3, etc.). Zoho's CRM and ERP Tools (Desk, Books, etc.). Vonage/Nexmo-based telephony and communications solutions (Vonage Business Phone, Nexmo Voice/SMS, OpenTalk, etc.). We are always looking for new technologies and welcome team members adding things to our technology stack so we can deliver more results more effectively. ",
+        "createdAt": 1594235894,
+        "updatedAt": 1594235894,
+        "status": "Waiting"
+    },
+    {
+        "id": "5f061bf698c6e5cd5b975520",
+        "title": "Backend Dev",
+        "company": "postman",
+        "link": "https://www.glassdoor.com",
+        "platform": "",
+        "tags": ["C#", "Git"],
+        "description": "We work with niche companies in the US, Canada, the UK to restructure and automate their operation so that their businesses can grow 5-10x. We do that by effectively analyzing their business, streamlining their processes, and designing an effective automation solution that we then implement on our robust IT stack. We make extensive use of technologies that help us accomplish results with less work — making everyone inside of our global organization more effective. We heavily leverage: Amazon AWS's serverless technologies and microservices for our front-end, back-end, and mobile apps (Lambda, Amplify, Cognito, S3, etc.). Zoho's CRM and ERP Tools (Desk, Books, etc.). Vonage/Nexmo-based telephony and communications solutions (Vonage Business Phone, Nexmo Voice/SMS, OpenTalk, etc.). We are always looking for new technologies and welcome team members adding things to our technology stack so we can deliver more results more effectively. ",
+        "createdAt": 1594235894,
+        "updatedAt": 1594235894,
+        "status": "Rejected"
+    },
+    {
+        "id": "5f061bf698c6e5cd5b975521",
+        "title": "Backend Dev",
+        "company": "postman",
+        "link": "https://www.glassdoor.com",
+        "platform": "",
+        "tags": ["C#", "Git"],
+        "description": "We work with niche companies in the US, Canada, the UK to restructure and automate their operation so that their businesses can grow 5-10x. We do that by effectively analyzing their business, streamlining their processes, and designing an effective automation solution that we then implement on our robust IT stack. We make extensive use of technologies that help us accomplish results with less work — making everyone inside of our global organization more effective. We heavily leverage: Amazon AWS's serverless technologies and microservices for our front-end, back-end, and mobile apps (Lambda, Amplify, Cognito, S3, etc.). Zoho's CRM and ERP Tools (Desk, Books, etc.). Vonage/Nexmo-based telephony and communications solutions (Vonage Business Phone, Nexmo Voice/SMS, OpenTalk, etc.). We are always looking for new technologies and welcome team members adding things to our technology stack so we can deliver more results more effectively. ",
+        "createdAt": 1594235894,
+        "updatedAt": 1594235894,
+        "status": "Rejected"
+    },
+    
+    {
+        "id": "5f061c0d98c6e5cd5b975522",
+        "title": "Dev Ops",
+        "company": "postman",
+        "link": "",
+        "platform": "",
+        "tags": ["Cloudnative", "AWS", "Azure"],
+        "description": "3+ years of experience in software development Strong background in managing and maintaining large scale Linux environments Experience with configuration management tools (e.g. Chef, Puppet, Ansible) Proficiency in scripting languages (Python, Ruby, Perl, Shell) Experience with CI tools (e.g. Jenkins, TravisCI, GoCD) Experience with monitoring tools Experience with Nginx, Apache, Mysql, Mongodb, Redis… Experience with Travis, Jenkins, AWS, CloudFormation, Fargate or Codepipeline Experience with Docker",
+        "createdAt": 1594235917,
+        "updatedAt": 1594235917,
+        "status": "Accepted"
+    },
+    {
+        "id": "5f061c0d98c6e5cd5b975523",
+        "title": "Dev Ops",
+        "company": "postman",
+        "link": "",
+        "platform": "",
+        "tags": ["Cloudnative", "AWS", "Azure"],
+        "description": "3+ years of experience in software development Strong background in managing and maintaining large scale Linux environments Experience with configuration management tools (e.g. Chef, Puppet, Ansible) Proficiency in scripting languages (Python, Ruby, Perl, Shell) Experience with CI tools (e.g. Jenkins, TravisCI, GoCD) Experience with monitoring tools Experience with Nginx, Apache, Mysql, Mongodb, Redis… Experience with Travis, Jenkins, AWS, CloudFormation, Fargate or Codepipeline Experience with Docker",
+        "createdAt": 1594235917,
+        "updatedAt": 1594235917,
+        "status": "Accepted"
+    },
+    {
+        "id": "5f061c0d98c6e5cd5b975524",
+        "title": "Dev Ops",
+        "company": "postman",
+        "link": "",
+        "platform": "",
+        "tags": ["Cloudnative", "AWS", "Azure"],
+        "description": "3+ years of experience in software development Strong background in managing and maintaining large scale Linux environments Experience with configuration management tools (e.g. Chef, Puppet, Ansible) Proficiency in scripting languages (Python, Ruby, Perl, Shell) Experience with CI tools (e.g. Jenkins, TravisCI, GoCD) Experience with monitoring tools Experience with Nginx, Apache, Mysql, Mongodb, Redis… Experience with Travis, Jenkins, AWS, CloudFormation, Fargate or Codepipeline Experience with Docker",
+        "createdAt": 1594235917,
+        "updatedAt": 1594235917,
+        "status": "Accepted"
+    },
+    {
+        "id": "5f061c0d98c6e5cd5b975525",
+        "title": "Dev Ops",
+        "company": "postman",
+        "link": "",
+        "platform": "",
+        "tags": ["Cloudnative", "AWS", "Azure"],
+        "description": "3+ years of experience in software development Strong background in managing and maintaining large scale Linux environments Experience with configuration management tools (e.g. Chef, Puppet, Ansible) Proficiency in scripting languages (Python, Ruby, Perl, Shell) Experience with CI tools (e.g. Jenkins, TravisCI, GoCD) Experience with monitoring tools Experience with Nginx, Apache, Mysql, Mongodb, Redis… Experience with Travis, Jenkins, AWS, CloudFormation, Fargate or Codepipeline Experience with Docker",
+        "createdAt": 1594235917,
+        "updatedAt": 1594235917,
+        "status": "Accepted"
+    },
+    {
+        "id": "5f061c0d98c6e5cd5b975526",
+        "title": "Dev Ops",
+        "company": "postman",
+        "link": "",
+        "platform": "",
+        "tags": ["Cloudnative", "AWS", "Azure"],
+        "description": "3+ years of experience in software development Strong background in managing and maintaining large scale Linux environments Experience with configuration management tools (e.g. Chef, Puppet, Ansible) Proficiency in scripting languages (Python, Ruby, Perl, Shell) Experience with CI tools (e.g. Jenkins, TravisCI, GoCD) Experience with monitoring tools Experience with Nginx, Apache, Mysql, Mongodb, Redis… Experience with Travis, Jenkins, AWS, CloudFormation, Fargate or Codepipeline Experience with Docker",
+        "createdAt": 1594235917,
+        "updatedAt": 1594235917,
+        "status": "Accepted"
+    },
+    
+]
